@@ -4,5 +4,9 @@ Tja nun soll eine kleine Beschreibung meines Charakters erfolgen. Nun, ich bin h
 * lernbereit
 * datensparsam
 * netlego
+
 NETlego
 > Don't lego the NET
+
+Störabstand
+<img src="netlego101.github.io/images/Stoerabstand-28062018.PNG"/>
